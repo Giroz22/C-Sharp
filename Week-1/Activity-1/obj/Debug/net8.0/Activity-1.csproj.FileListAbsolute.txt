@@ -1,0 +1,15 @@
+/home/giroz22/Desktop/C-Sharp/Week-1/Activity-1/bin/Debug/net8.0/Activity-1
+/home/giroz22/Desktop/C-Sharp/Week-1/Activity-1/bin/Debug/net8.0/Activity-1.deps.json
+/home/giroz22/Desktop/C-Sharp/Week-1/Activity-1/bin/Debug/net8.0/Activity-1.runtimeconfig.json
+/home/giroz22/Desktop/C-Sharp/Week-1/Activity-1/bin/Debug/net8.0/Activity-1.dll
+/home/giroz22/Desktop/C-Sharp/Week-1/Activity-1/bin/Debug/net8.0/Activity-1.pdb
+/home/giroz22/Desktop/C-Sharp/Week-1/Activity-1/obj/Debug/net8.0/Activity-1.GeneratedMSBuildEditorConfig.editorconfig
+/home/giroz22/Desktop/C-Sharp/Week-1/Activity-1/obj/Debug/net8.0/Activity-1.AssemblyInfoInputs.cache
+/home/giroz22/Desktop/C-Sharp/Week-1/Activity-1/obj/Debug/net8.0/Activity-1.AssemblyInfo.cs
+/home/giroz22/Desktop/C-Sharp/Week-1/Activity-1/obj/Debug/net8.0/Activity-1.csproj.CoreCompileInputs.cache
+/home/giroz22/Desktop/C-Sharp/Week-1/Activity-1/obj/Debug/net8.0/Activity-1.sourcelink.json
+/home/giroz22/Desktop/C-Sharp/Week-1/Activity-1/obj/Debug/net8.0/Activity-1.dll
+/home/giroz22/Desktop/C-Sharp/Week-1/Activity-1/obj/Debug/net8.0/refint/Activity-1.dll
+/home/giroz22/Desktop/C-Sharp/Week-1/Activity-1/obj/Debug/net8.0/Activity-1.pdb
+/home/giroz22/Desktop/C-Sharp/Week-1/Activity-1/obj/Debug/net8.0/Activity-1.genruntimeconfig.cache
+/home/giroz22/Desktop/C-Sharp/Week-1/Activity-1/obj/Debug/net8.0/ref/Activity-1.dll
